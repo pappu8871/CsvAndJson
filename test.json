@@ -1,0 +1,35 @@
+[
+{	
+	"firstName" : "Pappu",
+	"lastName" : "Thakur",
+	"age" : "22",
+	"address" : {"city" : "Jhanjharpur",
+				 "state": "Bihar",
+				 "zip" : "847403",
+				 "phoneNo" : "8871312779",
+				 "email" : "pappu8871@gmail.com"},
+	"details" : "This is my AddressBook, Please Check it"
+},
+{
+	"firstName" : "Rahu",
+	"lastName" : "Thakur",
+	"age" : "25",
+	"address" : {"city" : "Darbhanga",
+				"state": "bihar",
+				"zip" : "846001",
+				"phoneNo" : "8871312778",
+				"email" : "rahul8871@gmail.com"},
+	"details" : "This is my AddressBook, Please Check it"
+},
+{
+	"firstName" : "Ganesh",
+	"lastName" : "Jha",
+	"age" : "24",
+	"address" : {"city" : "Dbg",
+				"state": "Bihar",
+				"zip" : "862001",
+				"phoneNo" : "8871312776",
+				"email" : "ganesh@gmail.com"},
+	"details" : "This is my AddressBook, Please Check it"
+}				
+]				 
